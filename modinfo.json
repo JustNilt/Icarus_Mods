@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "Nilt's Food Bag",
+      "author": "Nilt",
+      "version": "1.0",
+      "compatibility": "w166",
+      "description": "Adds a bag, crafted on a textile bench, which will preserve whatever is placed inside it.  Should accept all foods and plants.",
+      "files": {
+        "exmodz": "https://github.com/JustNilt/Icarus_Mods/blob/main/Nilt_Food_Bag.EXMODZ"
+      },
+      "imageURL": "",
+      "readmeURL": "https://github.com/JustNilt/Icarus_Mods/blob/main/Nilt_Food_Bag_ReadMe.txt"
+    },
+  ]
+}
